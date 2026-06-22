@@ -44,3 +44,7 @@ reports/
 ## Author
 
 Bhavikta Gedam
+
+Data Analytics | Python | SQL | Tableau
+
+GitHub: https://github.com/bhavikta-analytix
